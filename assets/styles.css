@@ -1,0 +1,28 @@
+img {
+    max-width: 100%;
+}
+
+#header-logo {
+    width: 20vw;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+#day-range {
+    max-width: 400px;
+}
+
+#addition {
+    width: 45px;
+    height: 45px;
+}
+
+#add_new {
+    width: 100%;
+    max-width: 400px;
+}
+
+footer img {
+    width: 200px;
+}
